@@ -1,7 +1,14 @@
 # Family Mapper
 Family age timeline designed to compare people's lives.
 
-# Notes
+# Platforms
+* JavaScript
+* Node.JS
+* MongoDB
+* [Bootstrap Builder](http://pingendo.com/)
+
+
+# Libraries
 ---
 Following are potential libraries that can be used for the website interface.
 ### HTML Animator Libraries
