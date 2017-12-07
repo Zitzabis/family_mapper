@@ -17,7 +17,7 @@ Following are potential libraries that can be used for the website interface.
 ### Fade Transitions Between Pages
 [Animsition](http://git.blivesta.com/animsition/)
 
-### Fade Transitions Between Pages
+### Animated Typing
 [iTyped](https://github.com/luisvinicius167/ityped)
 
 ### Adaptive Background
