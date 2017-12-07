@@ -4,7 +4,7 @@ Family age timeline designed to compare people's lives.
 # Notes
 ---
 Following are potential libraries that can be used for the website interface.
-### HTMl Animator Libraries
+### HTML Animator Libraries
 [anime.js](http://animejs.com/)
 
 [MoJS](https://github.com/legomushroom/mojs)
@@ -25,3 +25,6 @@ Following are potential libraries that can be used for the website interface.
 
 ### Animated Sidebar
 [Ember Burger Menu](https://offirgolan.github.io/ember-burger-menu/)
+
+### Other potential pre-built animations
+[Codrops](https://tympanus.net/codrops/)
