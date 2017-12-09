@@ -17,3 +17,12 @@ canvas { display:block; } /* To remove the scrollbars */
     height: 100%;
     width: 100%;
 }
+
+.centerContent {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+}

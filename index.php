@@ -3,15 +3,17 @@
     <head>
         <title>Page Title</title>
         <link rel="stylesheet" href="css/custom.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     </head>
 
     <script src="js/granim.min.js"></script>
     <script src="js/anime.js"></script>
+    <script src="js/bootstrap.js"></script>
 
     <body>
         <!-- Create a <canvas> element -->
-        <div class="pageContent">
+        <div class="pageContent text-center">
             <h1>Hello World!</h1>
         </div>
         <canvas id="granim-canvas" class="backgroundCanvas"></canvas>
