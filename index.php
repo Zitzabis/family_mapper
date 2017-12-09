@@ -7,7 +7,7 @@
     </head>
 
     <script src="js/granim.min.js"></script>
-    
+    <script src="js/anime.js"></script>
 
     <body>
         <!-- Create a <canvas> element -->
