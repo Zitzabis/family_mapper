@@ -27,6 +27,12 @@ canvas { display:block; } /* To remove the scrollbars */
     justify-content: center;
 }
 
+.logo {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
 .buttonClear {
     color: white;
     border-color: white;

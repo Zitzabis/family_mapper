@@ -10,18 +10,7 @@
             <div class="pageContent centerContent"> 
                 <?php include_once("components/nav.php"); ?>
                 <div>
-                    <div class="logo text-center">
-                        <a href="#">
-                            <img src="img/logo.png" onclick="logo()" width="100%">
-                        </a>
-                    </div>
-                    <div class="logoCaption">
-                        <h1 class="text-center">
-                            <div>
-                                Start Mapping
-                            </div>
-                        </h1>
-                    </div>
+                    Home
                 </div>
             </div>
             <?php include_once("components/granim.php"); ?>
