@@ -8,8 +8,8 @@
     states : {
         "default-state": {
             gradients: [
-                ['#834D9B', '#D04ED6'],
-                ['#1CD8D2', '#93EDC7']
+                ['#00796b', '#388e3c'],
+                ['#9ccc65', '#004d40']
             ]
         }
     }
