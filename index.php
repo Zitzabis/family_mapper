@@ -9,7 +9,14 @@
         <!-- Create a <canvas> element -->
         <div class="pageContent centerContent"> 
             <div id="cssSelector">
-                <a href="#"><img src="img/logo.png" class="logo" onclick="logo()"></a></div>
+                <div class="logo">
+                    <a href="#">
+                        <img src="img/logo.png" onclick="logo()">
+                    </a>
+                </div>
+                <div>
+                    <h1 class="text-center"><div>Start Mapping</div></div></h1>
+                </div>
             </div>
         </div>
     </body>

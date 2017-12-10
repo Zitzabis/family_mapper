@@ -26,3 +26,8 @@ canvas { display:block; } /* To remove the scrollbars */
     align-items: center;
     justify-content: center;
 }
+
+.buttonClear {
+    color: white;
+    border-color: white;
+}
