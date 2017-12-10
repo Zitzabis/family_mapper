@@ -13,3 +13,22 @@ function logo() {
     })
 }
 
+function buttonInflate(inflate) {
+    var basicTimeline = anime.timeline();
+
+    if (inflate) {
+        basicTimeline
+        .add({
+            targets: '.continueButton',
+            scale: 1.5
+        })
+    }
+    else {
+        basicTimeline
+        .add({
+            targets: '.continueButton',
+            scale: 1
+        })
+    }
+}
+
