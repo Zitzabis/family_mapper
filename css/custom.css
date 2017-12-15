@@ -33,6 +33,12 @@ canvas { display:block; } /* To remove the scrollbars */
     width: 100%;
 }
 
+.panel {
+    padding: 10rem;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 1rem;
+}
+
 .buttonClear {
     color: white;
     border-color: white;
