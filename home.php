@@ -7,10 +7,20 @@
     <body>
         <?php include_once("components/navBarIcon.php"); ?>
         <main>
-            <div class="pageContent centerContent"> 
-                <?php include_once("components/nav.php"); ?>
-                <div>
-                    Home
+            <div class="pageContent regularContent"> 
+                    <?php include_once("components/nav.php"); ?>
+                    <div class="row">
+                        <div class="col-lg-8" style="padding: 2rem">
+                            <div class="panel">
+                                content
+                            </div>
+                        </div>
+                        <div class="col-lg-4" style="padding: 2rem">
+                            <div class="panel">
+                                content
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <?php include_once("components/granim.php"); ?>

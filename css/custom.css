@@ -27,6 +27,13 @@ canvas { display:block; } /* To remove the scrollbars */
     justify-content: center;
 }
 
+.regularContent {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    padding-top: 5rem;
+}
+
 .logo {
     display: block;
     margin: auto;
@@ -34,7 +41,7 @@ canvas { display:block; } /* To remove the scrollbars */
 }
 
 .panel {
-    padding: 10rem;
+    padding: 2rem;
     border: 5px solid rgb(255, 255, 255);
     border-radius: 1rem;
 }
